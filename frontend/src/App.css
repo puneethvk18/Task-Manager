@@ -1,0 +1,11 @@
+*{
+  background-color: bisque;
+}
+
+.car{
+  width: 750px;
+  border: 15px solid brown;
+  padding: 50px;
+  margin: 20px;
+  background-color: aquamarine;
+}
